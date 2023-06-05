@@ -1,6 +1,6 @@
 {
-  "short_name": "XP",
-  "name": "XP",
+  "short_name": "BeamSwap",
+  "name": "BeamSwap",
   "icons": [
     {
       "src": "./logo.png",
@@ -11,6 +11,6 @@
   ],
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#ff007a",
+  "theme_color": "#333333",
   "background_color": "#fff"
 }
